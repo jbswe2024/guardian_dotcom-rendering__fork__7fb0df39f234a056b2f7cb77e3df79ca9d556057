@@ -110,6 +110,6 @@
 		"webpack-manifest-plugin": "5.0.0",
 		"whatwg-fetch": "3.6.19",
 		"winston": "3.11.0",
-		"winston-daily-rotate-file": "4.7.1"
+		"winston-daily-rotate-file": "5.0.0"
 	}
 }
